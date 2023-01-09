@@ -1,0 +1,51 @@
+$ git init
+Initialized empty Git repository in /path/to/myproject/.git/
+<html>
+<head>
+  <title>Weirton Family Fitness</title>
+</head>
+<body>
+  <header>
+    <img src="gym-header.jpg" alt="Weirton Family Fitness" />
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#classes">Classes</a></li>
+      <li><a href="#training">Training</a></li>
+      <li><a href="#membership">Membership</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>About Weirton Family Fitness</h2>
+      <p>Weirton Family Fitness is a locally owned and operated gym that is dedicated to helping our community lead healthy, active lifestyles. Our state-of-the-art facilities and knowledgeable staff make it easy for people of all ages and fitness levels to get in shape and feel great. We offer a wide variety of classes, personal training services, and flexible membership options to meet the needs of our diverse clientele.</p>
+    </section>
+    <section id="classes">
+      <h2>Classes</h2>
+      <h3>Schedule</h3>
+      <table>
+        <tr>
+          <th>Time</th>
+          <th>Class</th>
+          <th>Instructor</th>
+        </tr>
+        <tr>
+          <td>6:00 AM</td>
+          <td>Spin</td>
+          <td>Sara</td>
+        </tr>
+        <tr>
+          <td>9:30 AM</td>
+          <td>Yoga</td>
+          <td>John</td>
+        </tr>
+        <tr>
+          <td>4:00 PM</td>
+          <td>Zumba</td>
+          <td>Jane</td>
+        </tr>
+        <tr>
+          <td>7:00 PM</td>
+          <td>Pilates</td>
